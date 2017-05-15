@@ -42,7 +42,9 @@
  ### Variables that contain merged DF
  
    -Merged_DF -> Contains the merge by row bind of Test_DF and Train_DF
+   
    -Merged_Activities_DF -> Contains the merge by row bind of Test_Activities_DF and Train_Activities_DF
+   
    -Merged_Subjects_DF -> Contains the merge by row bind of Test_Sub_DF and Train_Sub_DF 
  
  ### Other Variables  
@@ -50,3 +52,5 @@
    -Activities -> Contains the list of columns starting with c("Activity","Subject") and appending Column_Names_DF
    
    -Mean_STD_DF -> Data frame that contains point 5 of the assignment
+   
+   -Final_DF -> Data frame that contains point 2 of the assignment
